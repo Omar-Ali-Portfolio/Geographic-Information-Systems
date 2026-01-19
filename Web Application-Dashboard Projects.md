@@ -10,5 +10,5 @@ https://experience.arcgis.com/experience/4d40d256ed6d4adc85e3ff2fee86f067
 - **Map of compost drop-off sites on the Ohio State University campus**  
 https://experience.arcgis.com/experience/779d6da51adb40938cf5df019dbc7092
 
--**Earthquake Monitoring Dashboard**
+- **Earthquake Monitoring Dashboard**
 https://www.arcgis.com/apps/dashboards/1a00ae270d864032ba0bdae037d95bcb
