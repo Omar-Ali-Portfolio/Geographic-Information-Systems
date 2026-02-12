@@ -13,3 +13,6 @@ https://experience.arcgis.com/experience/779d6da51adb40938cf5df019dbc7092
 - **Earthquake Monitoring Dashboard**
 
   https://www.arcgis.com/apps/dashboards/1a00ae270d864032ba0bdae037d95bcb
+
+-**Environmental Equity in Allegheny County**
+https://www.arcgis.com/apps/dashboards/5e553e5058c14103be41e351bdd9d250
