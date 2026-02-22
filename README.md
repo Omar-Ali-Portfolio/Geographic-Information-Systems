@@ -29,4 +29,3 @@ Apply analytical GIS workflows
 Design clean, readable, and effective maps
 
 Communicate spatial information clearly through both static and interactive formats
-
